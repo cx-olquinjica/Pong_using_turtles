@@ -1,2 +1,2 @@
-# Peng_using_turtles
+# Pong_using_turtles
 Building a simple game in Python without having to use OOP
